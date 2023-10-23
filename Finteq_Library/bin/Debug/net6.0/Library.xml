@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Library>
+  <Book Id="001">
+    <Title>Atomic Habits</Title>
+    <Author>James Clear</Author>
+    <PublicationYear>2018</PublicationYear>
+    <IsCheckedOut>false</IsCheckedOut>
+  </Book>
+  <Book Id="002">
+    <Title>BERSERK Vol 1</Title>
+    <Author>Kentaro Miamura</Author>
+    <PublicationYear>1997</PublicationYear>
+    <IsCheckedOut>false</IsCheckedOut>
+  </Book>
+  <Book Id="003">
+    <Title>BERSERK Vol 2</Title>
+    <Author>Kentaro Miamura</Author>
+    <PublicationYear>1998</PublicationYear>
+    <IsCheckedOut>false</IsCheckedOut>
+  </Book>
+  <Book Id="005">
+    <Title>Meditations</Title>
+    <Author>Marcus Aurelius</Author>
+    <PublicationYear>1558</PublicationYear>
+    <IsCheckedOut>false</IsCheckedOut>
+  </Book>
+  <Book Id="004">
+    <Title>BERSERK Vol 3</Title>
+    <Author>Kentaro Miamura</Author>
+    <PublicationYear>0</PublicationYear>
+    <IsCheckedOut>false</IsCheckedOut>
+  </Book>
+</Library>
